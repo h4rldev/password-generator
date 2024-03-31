@@ -1,4 +1,3 @@
 # Password Generator
 
-
-A simple password generator that uses the extended ascii from the oem code page 437.
+A simple password generator that uses the Extended ASCII from OEM Code Page 437.
